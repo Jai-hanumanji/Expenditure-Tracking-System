@@ -1,5 +1,7 @@
 # Expenditure-Tracking-System
-Expenditure Tracker and Analyser
+It is an application in which user can track details and analyze his daily expenditure. It notifies the user when the total expenditure crosses the budget line. It also predicts and alerts the user about the expenses which can be avoided so that user can maximize his savings. The application can be modified based on particular individuals likes and dislikes.
+Tech Stack: MongoDB, Express, React, Node
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
