@@ -7,6 +7,9 @@ First of all install dependencies using command: npm install\
 Than start server using command: npm run dev\
 Than login/signup into the system using email id and password\
 Start using our expense tracker.
+![image](https://github.com/Jai-hanumanji/Expenditure-Tracking-System/assets/91114793/38ef5d03-69e1-491b-8af9-5452e9a40b06)
+![image](https://github.com/Jai-hanumanji/Expenditure-Tracking-System/assets/91114793/558aa41c-e28f-45e2-99d1-4b8d2fbbda95)
+![image](https://github.com/Jai-hanumanji/Expenditure-Tracking-System/assets/91114793/ee143687-f6c4-4f92-8303-ec4ba8cd3cf1)
 
 
 # Getting Started with Create React App
