@@ -3,9 +3,9 @@ It is an application in which user can track details and analyze his daily expen
 Tech Stack: MongoDB, Express, React, Node
 
 ## How to start?
-First of all install dependencies using command: npm install
-Than start server using command: npm run dev
-Than login/signup into the system using email id and password
+First of all install dependencies using command: npm install\
+Than start server using command: npm run dev\
+Than login/signup into the system using email id and password\
 Start using our expense tracker.
 
 
